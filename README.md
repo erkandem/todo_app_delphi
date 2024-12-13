@@ -14,7 +14,7 @@ More complex than e.g. [Matlab AppDesigner! - YouTube](https://www.youtube.com/w
 
 
 
-![Screenshot of App](file:///C:/Users/rando/Documents/Embarcadero/Studio/Projekte/docs/screenshot.png "Screenshot of App")
+![Screenshot of App](docs/screenshot.png "Screenshot of App")
 
 
 
