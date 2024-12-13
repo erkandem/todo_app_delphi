@@ -1,0 +1,23 @@
+# Delphi temporary files
+*.dcu
+*.~*    # Backup files
+*.local
+*.identcache
+*.tvsconfig
+__history/
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+
+# Backup files created by the IDE
+*.~*
+*.bak
+*.tmp
+
+# Debug and release folders
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
